@@ -1,6 +1,5 @@
 /** @jsxImportSource @emotion/react */
 import "./App.css";
-import { jsx, css } from "@emotion/react/macro";
 import React from "react";
 import { motion } from "framer-motion";
 
